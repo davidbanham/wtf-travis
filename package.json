@@ -1,0 +1,14 @@
+{
+  "name": "wtf-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Yaaaaay"
+  },
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "dependencies": {
+    "syslogh": "^1.2.0"
+  }
+}
